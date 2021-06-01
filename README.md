@@ -10,8 +10,10 @@ Driver JDBC SQL SERVER - pode ser encontrado dentro da pasta SUPORTE
 Faça download de todos os arquivos
 
 Para a criação do bando de dados:
-  Abra o Microsoft SQL Server Management Studio\n
+  Abra o Microsoft SQL Server Management Studio
+  
   Faça seu login
+  
   Clique com botão direito em "Databases"
   Clique em "Import Data-tier Application..."
   Abrirá uma janela de introdução, clique em "Next" para proseguir
