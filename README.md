@@ -10,17 +10,24 @@ Driver JDBC SQL SERVER - pode ser encontrado dentro da pasta SUPORTE
 Faça download de todos os arquivos
 
 Para a criação do bando de dados:
-  Abra o Microsoft SQL Server Management Studio
+
+  1 Abra o Microsoft SQL Server Management Studio
   
-  Faça seu login
+  2 Faça seu login
   
-  Clique com botão direito em "Databases"
-  Clique em "Import Data-tier Application..."
-  Abrirá uma janela de introdução, clique em "Next" para proseguir
-  Em "Import Settings" indique o local onde o arquivo "AgendaLeonardo.bacpac", clique em "Next" para proseguir
-  Em "Database Settings" é possivel alterar o nome da Database(Caso mude terá que alterar o nome da database no arquivo AgendaDao.java dentro do Eclipse)
-  No "Sumary" basta clicar em "Finish" e aguardar
-  No "Results" deve aparecer "Operation Complete", confirmando que a criação do banco foi realizada com sucesso.
+  3 Clique com botão direito em "Databases"
+  
+  4 Clique em "Import Data-tier Application..."
+  
+  5 Abrirá uma janela de introdução, clique em "Next" para proseguir
+ 
+  6 Em "Import Settings" indique o local onde o arquivo "AgendaLeonardo.bacpac", clique em "Next" para proseguir
+  
+  7 Em "Database Settings" é possivel alterar o nome da Database(Caso mude terá que alterar o nome da database no arquivo AgendaDao.java dentro do Eclipse)
+  
+  8 No "Sumary" basta clicar em "Finish" e aguardar
+  
+  9 No "Results" deve aparecer "Operation Complete", confirmando que a criação do banco foi realizada com sucesso.
   
 Para a importação do projeto no Eclipse
   Abra o Eclipse
