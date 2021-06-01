@@ -81,13 +81,13 @@ Altere os dados de conexão ao banco e dados
   
   2 Siga este caminho para abrir o arquivo a ser editado "Agenda > src > dao > ConexaoBD.java"
 
-  3 Na linha 11 do arquivo "ConexaoBD.java" altere para o endereço e porta do servidor. Exemplo "jdbc:sqlserver://<server>:<port>;". Onde se encontra "<server>" subistitua pelo endereço do servidor, e na "<port>" susbstitua pela porta em uso. Exemplo para localhost e porta padrao "jdbc:sqlserver://localhost:1433;". Caso não saiba a porta do servidor pode-se achar esta informação no "Sql Server Configure Manager", esta no pacote de instalação do  SQl Server Management Studio, na barra lateral procure por "Configuração de rede do SQL Server", selecione o servidor que será utilizado. Clique com o botão direito em "TCP/IP", siga para as propriedades, procure pela guia "Endereços IP"
+  3 Na linha 11 do arquivo "ConexaoBD.java" altere para o endereço e porta do servidor. Exemplo "jdbc:sqlserver://\<server\>:\<port\>;". Onde se encontra "\<server\>" subistitua pelo endereço do servidor, e na "\<port\>" susbstitua pela porta em uso. Exemplo para localhost e porta padrao "jdbc:sqlserver://localhost:1433;". Caso não saiba a porta do servidor pode-se achar esta informação no "Sql Server Configure Manager", esta no pacote de instalação do  SQl Server Management Studio, na barra lateral procure por "Configuração de rede do SQL Server", selecione o servidor que será utilizado. Clique com o botão direito em "TCP/IP", siga para as propriedades, procure pela guia "Endereços IP"
   
   4 Na linha 12 do arquivo "ConexaoBD.java" está o nome da dataBase, se o banco de dados foi criado a partir do arquivo "AgendaLeonardo.bacpac" e sem alterações no nome, não é preciso fazer alterações.
   
-  5 Na linha 13 do arquivo "ConexaoBD.java" altere para seu usuario de acesso ao Banco de dados. Exemplo "user=<user>", onde está "<user>" substitua pelo seu usuario.
+  5 Na linha 13 do arquivo "ConexaoBD.java" altere para seu usuario de acesso ao Banco de dados. Exemplo "user=\<user\>", onde está "\<user\>" substitua pelo seu usuario.
   
-  6 Na linha 16 do arquivo "ConexaoBD.java" altere para sua senha de acesso ao Banco de dados. Exemplo "password=<password>", onde está "<password>" substitua pelo sua senha.
+  6 Na linha 16 do arquivo "ConexaoBD.java" altere para sua senha de acesso ao Banco de dados. Exemplo "password=\<password\>", onde está "\<password\>" substitua pelo sua senha.
  
   7 Salve o arquivo
 
