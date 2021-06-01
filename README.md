@@ -13,6 +13,10 @@ Driver JDBC SQL SERVER - pode ser encontrado dentro da pasta SUPORTE
 
 Faça download de todos os arquivos
 
+<br>
+<br>
+<br>
+
 Para a criação do bando de dados:
 
   1 Abra o Microsoft SQL Server Management Studio
@@ -34,9 +38,9 @@ Para a criação do bando de dados:
   9 No "Results" deve aparecer "Operation Complete", confirmando que a criação do banco foi realizada com sucesso.
   
 
-
-
-
+<br>
+<br>
+<br>
 
 Para a importação do projeto no Eclipse
   
@@ -49,7 +53,9 @@ Para a importação do projeto no Eclipse
   4 Para finalizar clique em "Finish"
   
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -63,7 +69,9 @@ Caso não tenha o driver de conexão JDBC
   3 Ao abrir o explorador de aruivos do windows procure pela pasta "SUPORTE > SQLJDBC_9.2 > enu > mssql-jdbc-9.2.1.jre.15.jar" selecione o arquivo "mssql-jdbc-9.2.1.jre.15.jar" e clique em "ABRIR"
 
 
-
+<br>
+<br>
+<br>
 
 
 
@@ -85,7 +93,9 @@ Altere os dados de conexão ao banco e dados
 
   
   
-  
+<br>
+<br>
+<br>
   
 Para executar a aplicação
 
