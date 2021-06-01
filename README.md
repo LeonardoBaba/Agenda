@@ -35,6 +35,9 @@ Para a criação do bando de dados:
   
 
 
+
+
+
 Para a importação do projeto no Eclipse
   
   1 Abra o Eclipse
@@ -47,6 +50,10 @@ Para a importação do projeto no Eclipse
   
 
 
+
+
+
+
 Caso não tenha o driver de conexão JDBC
 
   1 Abra o Eclipse
@@ -54,6 +61,9 @@ Caso não tenha o driver de conexão JDBC
   2 Dentro da guia "Package Explorer" clique com o botão direito no projeto e procure por "Build Path > Add External Archives..."
   
   3 Ao abrir o explorador de aruivos do windows procure pela pasta "SUPORTE > SQLJDBC_9.2 > enu > mssql-jdbc-9.2.1.jre.15.jar" selecione o arquivo "mssql-jdbc-9.2.1.jre.15.jar" e clique em "ABRIR"
+
+
+
 
 
 
@@ -73,6 +83,10 @@ Altere os dados de conexão ao banco e dados
  
   7 Salve o arquivo
 
+  
+  
+  
+  
 Para executar a aplicação
 
   1 Estar com todos os requisitos acima
